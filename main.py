@@ -5,7 +5,6 @@ from PIL import Image
 import streamlit as st
 from time import gmtime, strftime
 from diffusers import DiffusionPipeline
-from image_generator import ImageGenerator
 
 EXAMPLE = 'A painting of a monkey eating a banana'
 MODEL_ID = "CompVis/ldm-text2im-large-256"
