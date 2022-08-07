@@ -1,0 +1,5 @@
+diffusers==0.1.3
+Pillow==9.2.0
+psutil==5.9.1
+streamlit==1.11.1
+torch==1.12.0
