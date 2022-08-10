@@ -19,3 +19,4 @@ I wrote an application using streamlit for people to try the code, you can go to
 
 You could change the parameters on the sidebar of the app. To understand the insight of params, please take a look into: [ldm-text2im-large-256](https://huggingface.co/CompVis/ldm-text2im-large-256) at [huggingface.co](https://huggingface.co)
 
+For more detail, please check the article: [https://medium.com/@silkworm/ai-creative-on-your-own-machine-by-the-diffusers-of-hugging-face](https://medium.com/@silkworm/ai-creative-on-your-own-machine-by-the-diffusers-of-hugging-face-3f37ec38b54c)
